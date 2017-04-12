@@ -1,0 +1,39 @@
+body{
+  background-color: black;
+  text-align: center;
+}
+
+h1,h2,p{
+font-family: Verdana;
+}
+
+.header h1{
+
+  color: White;
+  font-weight: normal;
+  font-size: 3.125em;
+}
+
+.header a, .footer a{
+  color: aquamarine;
+  font-size: 1em;
+
+}
+
+.article h2{
+  color:White;
+  font-weight: 300;
+  font-size: 2.625em;
+}
+
+.article p{
+  color:Gray;
+  font-size: 1.3125em;
+}
+
+
+.footer .copyright{
+  color:Gray;
+  text-align: right;
+  font-size: 1.3125em
+}
